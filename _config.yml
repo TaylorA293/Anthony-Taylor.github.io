@@ -1,7 +1,9 @@
-title: My Data Analysis Portfolio
-description: A portfolio of my data sources, project ideas, and visualizations.
-theme: jekyll-theme-cayman
+title: Chirpy Blog
+description: A feature-rich blog theme
 
-markdown: kramdown
 plugins:
   - jekyll-remote-theme
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+paginate: 10
