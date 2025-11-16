@@ -1,4 +1,4 @@
-## Anthony-Taylor.github.io
+## Anthony-Taylor
 
 ### Data Sources and Project Ideas:
 
