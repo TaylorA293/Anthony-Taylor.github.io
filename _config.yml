@@ -1,9 +1,4 @@
-title: Chirpy Blog
-description: A feature-rich blog theme
 
-plugins:
-  - jekyll-remote-theme
 
-remote_theme: cotes2020/jekyll-theme-chirpy
 
 
