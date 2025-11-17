@@ -39,5 +39,7 @@ body {
   <br><br>
   
 ## Where's Schueller?
-<iframe src="schueller_map2.html" style="width:100%; height:1000px; border:none;"></iframe>
-<iframe src="schueller_map.html" style="width:100%; height:1000px; border:none;"></iframe>
+<div style="margin:0; padding:0;">
+  <iframe src="schueller_map2.html" style="width:100%; height:1000px; border:none; margin:0; padding:0;"></iframe>
+  <iframe src="schueller_map.html" style="width:100%; height:1000px; border:none; margin:0; padding:0;"></iframe>
+</div>
