@@ -3,7 +3,7 @@
 ## Data Sources and Project Ideas
 
 - **Our World in Data**
-  - **Link:** [[https://ourworldindata.org/](https://ourworldindata.org/grapher/population-with-un-projections?tab=table&time=earliest..2062)
+  - **Link:** [https://ourworldindata.org/](https://ourworldindata.org/grapher/population-with-un-projections?tab=table&time=earliest..2062)
   - **Description:** A large repository of global datasets about health, population, economics, and environment.
   - **Project Idea:** Use the population of different countries and watch how they grow or fall will their GDP.
   <br><br>
