@@ -1,4 +1,7 @@
+title: My Data Analysis Portfolio
+description: A portfolio of my data sources, project ideas, and visualizations.
+theme: jekyll-theme-cayman
 
-
-
-
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
