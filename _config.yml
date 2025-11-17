@@ -1,9 +1,8 @@
 title: Anthony's Data Project Portfolio
 description: Exploring Interesting Data Sources and Visualizations
 theme: jekyll-theme-hacker
-
-
-
 markdown: kramdown
 
+include:
+  - style.css
 
