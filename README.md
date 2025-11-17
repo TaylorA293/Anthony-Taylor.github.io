@@ -1,4 +1,4 @@
-Anthony Taylor's Portfolio
+
 
 ## Data Sources and Project Ideas
 
