@@ -26,5 +26,6 @@
   - **Link:** https://data.lacity.org/
   - **Description:** Crime, traffic, environment, and city operations data.
   - **Project Idea:** Map traffic accident hotspots using geolocation.
-<br><br>
+  <br><br>
+  
 ## Where's Schueller?
