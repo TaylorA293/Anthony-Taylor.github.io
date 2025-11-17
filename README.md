@@ -1,5 +1,6 @@
-# Anthony Taylor's Portfolio 
-## Data Sources and Project Ideas:
+Anthony Taylor's Portfolio
+
+## Data Sources and Project Ideas
 
 - **Our World in Data**
   - **Link:** https://ourworldindata.org/
@@ -26,5 +27,4 @@
   - **Description:** Crime, traffic, environment, and city operations data.
   - **Project Idea:** Map traffic accident hotspots using geolocation.
 
-
-## Where's Schueller? 
+## Where's Schueller?
