@@ -1,4 +1,14 @@
+<style>
+/* Fade-in animation (inline test) */
+body {
+  animation: fadeIn 1.2s ease-in;
+}
 
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+</style>
 
 ## Data Sources and Project Ideas
 
